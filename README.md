@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shuvam-adk (' Shuvam Adhikari )
 - 🌱 I’m currently learning python...
-- 💞️ I’m looking to collaborate on ...
 - ⚡ "I’m trying to learn at least one programming language.
 -
 <!---
